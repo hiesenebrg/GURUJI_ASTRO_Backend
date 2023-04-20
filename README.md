@@ -38,7 +38,7 @@ Requirements:
 Clone the project
 
 ```bash
-  git clone https://github.com/hiesenebrg/Plutope-Furniture
+  git clone https://github.com/hiesenebrg/GURUJI_ASTRO_Backend/
 ```
 
 Go to the project directory
