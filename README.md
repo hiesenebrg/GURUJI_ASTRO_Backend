@@ -30,11 +30,8 @@ Requirements:
 
 ## Tech Stack
 
-**Client:** React, Redux, Material UI 
-
 **Server:** Node, Express , Mongodb
 
-**Paymnet Method:** Stripe Payment
 
 ## Run Locally
 
