@@ -58,3 +58,14 @@ Start the server
 ```bash
  npm run start
 ```
+
+## 🛠 Skills
+Java, Data Structures and Algorithms , Javascript, HTML, CSS , React , Redux , Node , Mongodb , Express , AWS , MERN
+
+
+## Authors
+
+- [hiesenebrg](https://www.github.com/hiesenebrg)
+
+## 🚀 About Me
+I'm a full stack developer...
