@@ -19,8 +19,14 @@ Requirements:
 ## Create Todo API
 ![image](https://drive.google.com/uc?export=view&id=12PDmVvBmbsUkZ7kHvaNXw8M14l0wHrSj)
 
-## STRIPE PAYMENT PAGE
-![image](https://drive.google.com/uc?export=view&id=11KrLOgf8OHktlsb8jnvuBpxVr_SDb4BR)
+## GetAll Todos API
+![image](https://drive.google.com/uc?export=view&id=1lgTlKevbl37NM6eUS4loUAzYQppI9IGq)
+
+## Update Todo API
+![image](https://drive.google.com/uc?export=view&id=1wOZeBCMhTl2gG-llyeQmqjlnlIEQ4mkR)
+
+## Delete Todo API
+![image](https://drive.google.com/uc?export=view&id=1De62Cf4GdTfQP-nhdoH8J7i7hWPOwTWf)
 
 ## Tech Stack
 
